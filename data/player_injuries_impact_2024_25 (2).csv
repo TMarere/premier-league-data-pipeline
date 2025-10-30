@@ -1,0 +1,61 @@
+Player,Team,Position,Injury Type,Injury Start,Expected Return,Days Out,Matches Missed,Severity,Estimated Impact
+Bukayo Saka,Arsenal,Midfielder,Calf,2024-11-20,2025-03-16,116,23,High,0.69
+Declan Rice,Arsenal,Midfielder,Hamstring,2024-11-16,2024-12-25,39,8,Medium,0.76
+Martin Ødegaard,Arsenal,Goalkeeper,Thigh,2024-11-12,2025-03-12,120,24,High,0.97
+Gabriel Jesus,Arsenal,Goalkeeper,Groin,2024-11-11,2024-11-24,13,3,Low,0.83
+Enzo Fernández,Chelsea,Defender,Back,2024-09-23,2024-11-06,44,9,Medium,0.69
+Cole Palmer,Chelsea,Goalkeeper,Shoulder,2024-08-06,2024-08-14,8,2,Low,0.97
+Reece James,Chelsea,Defender,Hamstring,2024-09-04,2024-09-14,10,2,Low,0.91
+Raheem Sterling,Chelsea,Midfielder,Hamstring,2024-09-14,2024-10-06,22,4,Medium,0.97
+Erling Haaland,Manchester City,Defender,Shoulder,2024-09-15,2024-10-25,40,8,Medium,0.67
+Phil Foden,Manchester City,Defender,Shoulder,2024-12-04,2025-01-04,31,6,Medium,0.9
+Kevin De Bruyne,Manchester City,Defender,Hamstring,2024-12-13,2025-02-17,66,13,High,0.74
+Jack Grealish,Manchester City,Forward,Shoulder,2024-08-04,2024-10-21,78,16,High,0.92
+Mohamed Salah,Liverpool,Midfielder,Illness,2024-08-20,2024-09-28,39,8,Medium,0.86
+Trent Alexander-Arnold,Liverpool,Defender,Shoulder,2024-12-09,2025-04-06,118,24,High,0.67
+Darwin Núñez,Liverpool,Defender,Calf,2024-09-21,2024-10-01,10,2,Low,0.97
+Virgil van Dijk,Liverpool,Midfielder,Groin,2024-08-20,2024-09-18,29,6,Medium,0.63
+Bruno Fernandes,Manchester United,Midfielder,Knee,2024-09-19,2024-12-27,99,20,High,0.81
+Marcus Rashford,Manchester United,Goalkeeper,Ankle,2024-11-08,2024-12-23,45,9,Medium,0.81
+Casemiro,Manchester United,Midfielder,Groin,2024-12-16,2024-12-25,9,2,Low,0.67
+Lisandro Martínez,Manchester United,Defender,Shoulder,2024-08-06,2024-08-13,7,1,Low,0.84
+James Maddison,Tottenham Hotspur,Forward,Knee,2024-11-02,2024-11-19,17,3,Medium,0.72
+Son Heung-min,Tottenham Hotspur,Defender,Groin,2024-09-20,2025-01-02,104,21,High,0.96
+Yves Bissouma,Tottenham Hotspur,Goalkeeper,Calf,2024-11-20,2024-12-27,37,7,Medium,0.78
+Dejan Kulusevski,Tottenham Hotspur,Defender,Knee,2024-11-18,2024-12-28,40,8,Medium,0.62
+Alexander Isak,Newcastle United,Midfielder,Shoulder,2024-10-20,2024-12-21,62,12,High,0.76
+Kieran Trippier,Newcastle United,Defender,Back,2024-12-14,2025-03-27,103,21,High,0.75
+Sandro Tonali,Newcastle United,Forward,Back,2024-10-13,2024-11-21,39,8,Medium,0.84
+Anthony Gordon,Newcastle United,Defender,Hamstring,2024-08-18,2024-08-25,7,1,Low,0.89
+Ollie Watkins,Aston Villa,Midfielder,Ankle,2024-10-23,2024-11-25,33,7,Medium,0.65
+Emiliano Buendía,Aston Villa,Goalkeeper,Hamstring,2024-09-19,2024-10-25,36,7,Medium,0.93
+Tyrone Mings,Aston Villa,Defender,Calf,2024-11-24,2024-12-30,36,7,Medium,0.64
+Douglas Luiz,Aston Villa,Goalkeeper,Ankle,2024-09-27,2024-10-19,22,4,Medium,0.77
+Kaoru Mitoma,Brighton,Midfielder,Groin,2024-11-24,2024-12-04,10,2,Low,0.98
+Solly March,Brighton,Midfielder,Calf,2024-09-22,2024-10-07,15,3,Medium,0.75
+Lewis Dunk,Brighton,Forward,Shoulder,2024-11-24,2025-02-02,70,14,High,0.7
+João Pedro,Brighton,Midfielder,Shoulder,2024-11-11,2024-11-20,9,2,Low,0.83
+Jarrod Bowen,West Ham United,Forward,Illness,2024-08-01,2024-08-19,18,4,Medium,0.72
+Lucas Paquetá,West Ham United,Midfielder,Knee,2024-08-07,2024-09-19,43,9,Medium,0.8
+James Ward-Prowse,West Ham United,Defender,Hamstring,2024-10-17,2024-12-18,62,12,High,0.94
+Kurt Zouma,West Ham United,Goalkeeper,Ankle,2024-12-25,2025-01-12,18,4,Medium,0.72
+Pedro Neto,Tottenham Hotspur,Forward,Ankle,2024-10-13,2024-11-14,32,6,Medium,0.95
+Harvey Barnes,Chelsea,Defender,Hamstring,2024-10-02,2024-10-13,11,2,Low,0.65
+Dominic Calvert-Lewin,Brighton,Goalkeeper,Shoulder,2024-08-26,2024-10-05,40,8,Medium,0.73
+Ivan Toney,Manchester City,Forward,Knee,2024-08-08,2024-11-26,110,22,High,0.83
+James Tarkowski,Tottenham Hotspur,Defender,Back,2024-10-13,2024-12-27,75,15,High,0.89
+Luis Díaz,Newcastle United,Goalkeeper,Hamstring,2024-09-03,2024-10-09,36,7,Medium,0.76
+Reiss Nelson,Brighton,Midfielder,Illness,2024-11-23,2025-01-08,46,9,High,0.91
+Pascal Groß,Aston Villa,Goalkeeper,Hamstring,2024-09-04,2024-11-11,68,14,High,0.65
+Morgan Gibbs-White,Aston Villa,Midfielder,Ankle,2024-10-23,2025-02-16,116,23,High,0.7
+Jarrad Branthwaite,Newcastle United,Midfielder,Thigh,2024-12-28,2025-02-16,50,10,High,0.69
+Ben White,West Ham United,Forward,Back,2024-12-24,2025-01-06,13,3,Low,0.79
+Jordan Pickford,Aston Villa,Forward,Knee,2024-09-09,2024-10-08,29,6,Medium,0.68
+Alexander-Arnold,Tottenham Hotspur,Goalkeeper,Thigh,2024-08-22,2024-10-06,45,9,Medium,0.75
+Matheus Cunha,Aston Villa,Midfielder,Groin,2024-12-19,2025-03-13,84,17,High,0.78
+Conor Gallagher,Tottenham Hotspur,Midfielder,Hamstring,2024-12-26,2025-01-06,11,2,Low,0.9
+Joško Gvardiol,Liverpool,Midfielder,Groin,2024-08-22,2024-09-06,15,3,Medium,0.95
+Ben Chilwell,Arsenal,Forward,Knee,2024-09-24,2024-10-20,26,5,Medium,0.8
+Diogo Jota,Liverpool,Midfielder,Groin,2024-11-07,2024-11-22,15,3,Medium,0.81
+Rasmus Højlund,West Ham United,Defender,Calf,2024-12-22,2025-01-28,37,7,Medium,0.81
+Phil Jones,Tottenham Hotspur,Midfielder,Back,2024-12-14,2024-12-24,10,2,Low,0.8
