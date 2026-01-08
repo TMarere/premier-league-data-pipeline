@@ -3,9 +3,6 @@ import sys
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, to_date, datediff, year, month
 
-
-
-
 spark = (
     SparkSession.builder
     .appName("Premier League Injuries ETL")
@@ -13,6 +10,8 @@ spark = (
     .config("spark.hadoop.fs.s3a.path.style.access", "true")
     .getOrCreate()
 )
+
+
 
 
 df = spark.read.option("header", True).option("inferSchema", True).csv("s3a://pl-injuries-data-tanatswa/raw/player_injuries_impact_2024_25.csv")

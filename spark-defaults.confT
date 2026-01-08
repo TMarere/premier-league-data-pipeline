@@ -1,0 +1,16 @@
+
+
+
+
+
+
+# --- S3A safe timeouts for Spark 4 ---
+spark.hadoop.fs.s3a.connection.timeout 60000
+spark.hadoop.fs.s3a.connection.establish.timeout 60000
+spark.hadoop.fs.s3a.socket.timeout 60000
+spark.hadoop.fs.s3a.attempts.maximum 3
+
+# --- Required for local S3 access ---
+spark.hadoop.fs.s3a.path.style.access true
+spark.hadoop.fs.s3a.impl org.apache.hadoop.fs.s3a.S3AFileSystem
+
