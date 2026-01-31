@@ -2,6 +2,8 @@
 import sys
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, to_date, datediff, year, month
+from pyspark.sql.functions import to_date, col, datediff, year, month
+
 
 
 
@@ -30,6 +32,9 @@ df_cleaned = (
     .withColumn("injury_start", to_date(col("Injury Start"), "yyyy-MM-dd"))
     .withColumn("expected_return", to_date(col("Expected Return"), "yyyy-MM-dd"))
     .withColumn("days_out", datediff(col("expected_return"), col("injury_start")))
+    .withColumn("injury_year", year(col("injury_start")))
+    .withColumn("injury_month", month(col("injury_start")))
+     .drop("Injury Start", "Expected Return", "Days Out")
 )
 
              
