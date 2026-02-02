@@ -1,0 +1,14 @@
+# Spark / Hadoop junk
+*.jar
+.ivy2/
+spark-warehouse/
+.metastore_db/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+
+
